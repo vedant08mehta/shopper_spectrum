@@ -70,7 +70,7 @@ Shopper-Spectrum/
 1. Install required libraries:
    pip install -r requirements.txt
 2. Run the Streamlit app:
-
+   streamlit run app.py
 
 ---
 
